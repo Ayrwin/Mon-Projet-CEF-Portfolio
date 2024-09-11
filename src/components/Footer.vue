@@ -75,4 +75,8 @@ time {
 .footer__social__icon:hover {
     opacity: 50%;
 }
+
+img {
+    height: 50px;
+}
 </style>
