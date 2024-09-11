@@ -48,7 +48,9 @@ nav {
 }
 
 img {
-    width: 65px;
+    display: flex;
+    justify-content: center;
+    width: 100px;
 }
 
 .nav__link * {
