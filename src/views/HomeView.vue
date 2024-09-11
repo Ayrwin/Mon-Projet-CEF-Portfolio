@@ -4,6 +4,6 @@ import Presentation from '../components/Presentation.vue';
 
 <template>
   <main>
-    <TheWelcome />
+    <Presentation/>
   </main>
 </template>
