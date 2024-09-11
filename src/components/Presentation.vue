@@ -22,6 +22,7 @@ import { ref } from 'vue';
     </div>
     <div class="about__content">
       <CV v-if="presentationFilter === 'CV'"/>
+      <a class="CV" href="https://github.com/Ayrwin/Mon-CV.git"></a>
     </div>
   </div>
 </template>
