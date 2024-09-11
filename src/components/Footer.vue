@@ -51,7 +51,7 @@ footer * {
 }
 
 .footer__borderRight {
-    border-right: 1px snow;
+    border-right: 1px solid snow;
 }
 
 address {
