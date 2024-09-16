@@ -18,11 +18,14 @@ import { ref } from 'vue';
     </div>
 
     <div class="about__filter">
-      <button class="about__filter__button CTA" @click="presentationFilter='CV'">CV</button>
+      <button class="about__filter__button CTA" @click="presentationFilter='courses'">Parcours</button>
+      <button class="about__filter__button CTA" @click="presentationFilter='experiences'">Expériences</button>
+      <button class="about__filter__button CTA" @click="presentationFilter='skills'">Compétences</button>
     </div>
     <div class="about__content">
-      <CV v-if="presentationFilter === 'CV'"/>
-      <a class="CV" href="https://github.com/Ayrwin/Mon-CV.git"></a>
+      <Courses v-if="presentationFilter === 'courses'"/>
+      <Experiences v-if="presentationFilter === 'experiences'"/>
+      <Skills v-if="presentationFilter === 'skills'"/>
     </div>
   </div>
 </template>
