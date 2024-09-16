@@ -1,5 +1,12 @@
 <script setup>
 import { ref } from 'vue';
+
+import TitreNiveau2 from '../components/TitreNiveau2.vue';
+import Courses from '../components/Courses.vue';
+import Experiences from '../components/Experiences.vue';
+import Skills from '../components/Skills.vue';
+
+const presentationFilter = ref( 'courses' )
 </script>
 
 <template>
