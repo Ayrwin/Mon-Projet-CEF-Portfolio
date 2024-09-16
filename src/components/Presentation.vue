@@ -79,4 +79,18 @@ img {
   margin-bottom: 2em;
 }
 
+@media screen and (max-width:480px) {
+  .presentation {
+    flex-direction: column-reverse;
+    padding: 10px 0;
+  }
+
+  .presentation__text p {
+    width: 85%;
+  }
+  img {
+    width: 50%;
+  }
+}
+
 </style>
