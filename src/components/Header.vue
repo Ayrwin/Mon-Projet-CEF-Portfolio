@@ -31,7 +31,7 @@ let showMenu = ref( false )
 header {
     position: fixed;
     background-color: aqua;
-    width: 90%;
+    width: 99%;
     top: 0;
     padding: 15px;
     border-bottom: 1 px solid burlywood;
@@ -69,6 +69,20 @@ a:hover {
     text-decoration: underline;
 }
 
+.sideNav {
+    width: 65%;
+    height: 100%;
+    box-sizing: border-box;
+    position: fixed;
+    top: 85px;
+    right: 0;
+    background-color: aliceblue;
+    padding: 10px;
+    border: 1px solid #060640;
+    border-top: none;
+    border-right: none;
+}
+
 .sideNav__background {
     position: fixed;
     top: 0;
@@ -92,4 +106,5 @@ a:hover {
 .nav__link {
     display: none;
 }
+
 </style>
