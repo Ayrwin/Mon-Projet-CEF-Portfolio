@@ -21,7 +21,7 @@ const parcours = {
 <template>
     <div class="experience">
         <div class="experience__title">
-            <span class="material-symbols-outlined">work</span><br>
+            <span class="material-symbols-outlined">jobs</span><br>
             <TitreNiveau2>Mes expériences professionnelles</TitreNiveau2>
         </div>
 
