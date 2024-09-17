@@ -28,7 +28,7 @@ const parcours = {
 <template>
     <div class="courses">
         <div class="courses__title">
-            <span class="material-symbols-outlined">school</span><br>
+            <span class="material-symbols-outlined">écoles</span><br>
             <TitreNiveau2>Mon parcours</TitreNiveau2>
         </div>
 
