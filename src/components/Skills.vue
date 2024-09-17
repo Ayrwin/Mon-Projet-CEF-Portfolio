@@ -48,7 +48,7 @@ const hobbies = [
         <div class="left__column">
             <div class="skills">
                 <div class="skills__title">
-                    <span class="material-symbols-outlined">sync_alt</span><br>
+                    <span class="material-symbols-outlined">skills</span><br>
                     <TitreNiveau2>Mes Compétences Techniques</TitreNiveau2>
                 </div>
                 <div class="skills__content">
@@ -58,7 +58,7 @@ const hobbies = [
 
             <div class="languages">
                 <div class="languages__title">
-                    <span class="material-symbols-outlined">language</span>
+                    <span class="material-symbols-outlined">langues</span>
                     <TitreNiveau2>Langues</TitreNiveau2>
                 </div>
                 <div class="languages__content">
@@ -72,7 +72,7 @@ const hobbies = [
         <div class="right__column">
             <div class="outils">
                 <div class="outils__title">
-                    <span class="material-symbols-outlined">menu_book</span>
+                    <span class="material-symbols-outlined">outils</span>
                     <TitreNiveau2>Outils maîtrisés</TitreNiveau2>
                 </div>
                 <div class="outils__content">
@@ -86,7 +86,7 @@ const hobbies = [
 
             <div class="hobbies">
                 <div class="hobbies__title">
-                    <span class="material-symbols-outlined">fitness_center</span>
+                    <span class="material-symbols-outlined">hobbies</span>
                     <TitreNiveau2>Centres d'Intérêt</TitreNiveau2>
                 </div>
                 <div class="hobbies__content">
