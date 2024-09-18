@@ -30,10 +30,10 @@ let showMenu = ref( false )
 <style scoped>
 header {
     position: fixed;
-    background-color: aqua;
-    width: 99%;
+    background-color: midnightblue;
+    width: 83%;
     top: 0;
-    padding: 15px;
+    padding: 5px;
     border-bottom: 1 px solid burlywood;
 }
 
