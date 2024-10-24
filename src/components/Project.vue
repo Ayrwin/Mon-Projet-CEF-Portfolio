@@ -1,5 +1,6 @@
 <script setup>
     import { ref } from 'vue'
+    import { project } from '../data/project.json'
 
     import TitreNiveau2 from '../components/TitreNiveau2.vue';
     import SmallCard from '../components/Project_SmallCard.vue';
