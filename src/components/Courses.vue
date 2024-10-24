@@ -86,7 +86,7 @@ const parcours = {
 
 .ecole {
     padding: 15px;
-    background-color: blue;
+    background-color: yellowgreen;
     border-radius: 25px;
     box-shadow: -4px 5px 10px #060640;
 }
