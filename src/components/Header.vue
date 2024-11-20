@@ -104,7 +104,7 @@ a:hover {
 }
 
 .nav__link {
-    display: none;
+    display: flex;
 }
 
 </style>
