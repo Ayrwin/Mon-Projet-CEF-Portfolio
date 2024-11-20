@@ -50,6 +50,10 @@ footer * {
     padding: 10px;
 }
 
+#footer {
+    margin: 4em;
+}
+
 .footer__borderRight {
     border-right: 1px solid snow;
 }
