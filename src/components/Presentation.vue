@@ -67,6 +67,10 @@ img {
   box-shadow: -4px 5px 25px palevioletred;
 }
 
+#about {
+  margin: 4em;
+}
+
 .about__filter {
   display: flex;
   gap: 15px;
